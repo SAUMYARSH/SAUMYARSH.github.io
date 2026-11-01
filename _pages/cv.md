@@ -7,58 +7,32 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Pharm in Pharmacology, Maliba Pharmacy College, Surat, 2024 to 2026 (CGPA 8.4)
+* B.Pharm, 2019 to 2023
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* M.Pharm thesis: Empagliflozin with probiotics in a high fat diet and choline induced Alzheimer's model in BALB/c mice
+  * In vivo behavioural and biochemical studies
+  * 16S rRNA gut microbiota profiling
+  * TMAO quantification by LC-MS/MS
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Competitive exams
+======
+* NIPER JEE 2024: All India Rank 135 (Medicinal Chemistry)
+* GPAT 2024: All India Rank 1701
+* GPAT 2023: 94.07 percentile
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pharmacovigilance, clinical research, regulatory affairs
+* Formulation and quality control
+* Animal handling and behavioural models
+* MS Office, basic SQL, basic Python
 
-Publications
+Open source
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [JuliaHealth/JuliaLifeSciences #17](https://github.com/JuliaHealth/JuliaLifeSciences/pull/17): adding chemistry packages to the catalogue (in review)
+* [JuliaLang/julia #63616](https://github.com/JuliaLang/julia/pull/63616): documentation cross reference (merged)
