@@ -7,21 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a pharmacologist with an M.Pharm in Pharmacology from Maliba Pharmacy College, Surat. My research looks at how the gut and the brain talk to each other, and whether drugs and probiotics can change that conversation in Alzheimer's disease.
+I am a pharmacologist and Assistant Professor at Maliba Pharmacy College, Uka Tarsadia University, Surat, where I teach Pharmacology and Pharmacovigilance to B.Pharm students. I hold an M.Pharm in Pharmacology and I am GPAT and NIPER qualified.
 
-For my thesis I studied empagliflozin together with probiotics in a high fat diet and choline induced mouse model of Alzheimer's disease. The work covered behavioural tests, biochemical assays, 16S rRNA profiling of the gut microbiota and TMAO measurement by LC-MS/MS.
+My work centres on drug safety: detecting and reporting adverse drug reactions, assessing causality and understanding the regulatory framework for medicines. I am looking for roles in pharmacovigilance, regulatory affairs or medical writing.
 
-I am also starting out in scientific open source, where I want to bring pharmacology and life science knowledge to tools that researchers use every day.
+For my M.Pharm thesis I studied empagliflozin together with probiotics in a high fat diet and choline induced mouse model of Alzheimer's disease, looking at the gut brain axis through behavioural tests, biochemical assays, 16S rRNA microbiota profiling and TMAO measurement by LC-MS/MS.
 
-Interests
+I also contribute to scientific open source, bringing pharmacology knowledge to tools researchers use.
+
+Core competencies
 ======
-* Neuropharmacology and neurodegenerative disease
-* Gut microbiome and the gut brain axis
-* Pharmacovigilance and clinical research
-* Regulatory affairs, formulation and quality control
+* Pharmacovigilance and ADR / ICSR processing concepts
+* Causality assessment (WHO-UMC, Naranjo)
+* PvPI and ICH E2 guidelines
+* Drug regulatory affairs, CTD / eCTD basics
+* Clinical data management
+* Scientific and medical writing, literature review
 
 Highlights
 ======
 * NIPER JEE 2024, All India Rank 135 (Medicinal Chemistry)
-* GPAT 2024, All India Rank 1701
-* GPAT 2023, 94.07 percentile
+* GPAT 2024 qualified, AIR 1701
+* GPAT 2023 qualified, AIR 3736 (94.07 percentile)
